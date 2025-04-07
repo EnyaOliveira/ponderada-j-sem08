@@ -7,7 +7,7 @@ Este projeto realiza a análise e previsão da produção mensal de cerveja na A
 O conjunto de dados utilizado foi retirado do Kaggle:
 
 - **Monthly Beer Production in Australia**  
-  [https://www.kaggle.com/datasets/mohamedalishiha/monthly-beer-production-in-austr](https://www.kaggle.com/datasets/mohamedalishiha/monthly-beer-production-in-austr)
+  [https://www.kaggle.com/datasets/mohamedalishiha/monthly-beer-production-in-austr](https://www.kaggle.com/code/mpwolke/australian-monthly-beer-production)
 
 O arquivo CSV está disponível localmente no Google Drive em:
 /content/drive/MyDrive/Modulo11/Jef/monthly-beer-production-in-austr.csv
